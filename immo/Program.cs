@@ -6,14 +6,20 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ImmoApp.domain;
+using ImmoApp.Data;
+
 
 namespace immo
 {
     public class Program
     {
+        private static CoproprietaireContext context = new CoproprietaireContext();
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

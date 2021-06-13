@@ -1,0 +1,12 @@
+D:\git\immo\ImmoApp.Data\bin\Debug\netcoreapp3.1\ImmoApp.Data.deps.json
+D:\git\immo\ImmoApp.Data\bin\Debug\netcoreapp3.1\ImmoApp.Data.dll
+D:\git\immo\ImmoApp.Data\bin\Debug\netcoreapp3.1\ImmoApp.Data.pdb
+D:\git\immo\ImmoApp.Data\bin\Debug\netcoreapp3.1\ImmoApp.domain.dll
+D:\git\immo\ImmoApp.Data\bin\Debug\netcoreapp3.1\ImmoApp.domain.pdb
+D:\git\immo\ImmoApp.Data\obj\Debug\netcoreapp3.1\ImmoApp.Data.csprojAssemblyReference.cache
+D:\git\immo\ImmoApp.Data\obj\Debug\netcoreapp3.1\ImmoApp.Data.AssemblyInfoInputs.cache
+D:\git\immo\ImmoApp.Data\obj\Debug\netcoreapp3.1\ImmoApp.Data.AssemblyInfo.cs
+D:\git\immo\ImmoApp.Data\obj\Debug\netcoreapp3.1\ImmoApp.Data.csproj.CoreCompileInputs.cache
+D:\git\immo\ImmoApp.Data\obj\Debug\netcoreapp3.1\ImmoApp.Data.csproj.CopyComplete
+D:\git\immo\ImmoApp.Data\obj\Debug\netcoreapp3.1\ImmoApp.Data.dll
+D:\git\immo\ImmoApp.Data\obj\Debug\netcoreapp3.1\ImmoApp.Data.pdb

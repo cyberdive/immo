@@ -12,4 +12,9 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ImmoApp.Data\ImmoApp.Data.csproj" />
+    <ProjectReference Include="..\ImmoApp.domain\ImmoApp.domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -75,3 +75,7 @@ D:\git\immo\immo\obj\Debug\netcoreapp3.1\immo.csproj.CopyComplete
 D:\git\immo\immo\obj\Debug\netcoreapp3.1\immo.dll
 D:\git\immo\immo\obj\Debug\netcoreapp3.1\immo.pdb
 D:\git\immo\immo\obj\Debug\netcoreapp3.1\immo.genruntimeconfig.cache
+D:\git\immo\immo\bin\Debug\netcoreapp3.1\ImmoApp.Data.dll
+D:\git\immo\immo\bin\Debug\netcoreapp3.1\ImmoApp.domain.dll
+D:\git\immo\immo\bin\Debug\netcoreapp3.1\ImmoApp.Data.pdb
+D:\git\immo\immo\bin\Debug\netcoreapp3.1\ImmoApp.domain.pdb

@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "immo", "immo.csproj", "{D873FC9D-F799-4382-88C9-69EF411B24F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmoApp.domain", "..\ImmoApp.domain\ImmoApp.domain.csproj", "{0C884EA0-906C-4BE0-9C3A-D3FCF8E2376C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImmoApp.domain", "..\ImmoApp.domain\ImmoApp.domain.csproj", "{0C884EA0-906C-4BE0-9C3A-D3FCF8E2376C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmoApp.Data", "..\ImmoApp.Data\ImmoApp.Data.csproj", "{5EC2C6A1-C179-4C5B-BA52-DC273866E111}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0C884EA0-906C-4BE0-9C3A-D3FCF8E2376C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C884EA0-906C-4BE0-9C3A-D3FCF8E2376C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C884EA0-906C-4BE0-9C3A-D3FCF8E2376C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC2C6A1-C179-4C5B-BA52-DC273866E111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC2C6A1-C179-4C5B-BA52-DC273866E111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC2C6A1-C179-4C5B-BA52-DC273866E111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC2C6A1-C179-4C5B-BA52-DC273866E111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
