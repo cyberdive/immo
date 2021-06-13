@@ -37,7 +37,7 @@ namespace immo.Controllers
             { 
             
             }
-              
+            ViewBag.Message = copro; 
             return View();
         }
 
@@ -49,7 +49,7 @@ namespace immo.Controllers
             copro.Name = "privacy";
             context.Coproprietaires.Add(copro);
             context.SaveChanges();
-
+            ViewBag.Message = copro;
             return View();
         }
 

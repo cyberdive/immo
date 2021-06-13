@@ -13,7 +13,7 @@ namespace ImmoApp.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
            
-            optionsBuilder.UseSqlServer("server=xx;database=immo;User Id=; Password=;");
+            optionsBuilder.UseSqlServer("");
             // base.OnConfiguring(optionsBuilder);
         }
     }
