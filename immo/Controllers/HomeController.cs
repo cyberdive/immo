@@ -49,10 +49,53 @@ namespace immo.Controllers
             copro.Name = "privacy";
             context.Coproprietaires.Add(copro);
             context.SaveChanges();
-            ViewBag.Message = copro;
-            return View();
+            List<Coproprietaire> copros = context.Coproprietaires.ToList();
+            ViewBag.Message = copros;
+
+            return View(copros);
         }
 
+
+        public IActionResult copros()
+        {
+            // context.Database.EnsureCreated();
+
+            var copro = new Coproprietaire();
+            copro.Name = "privacy";
+            context.Coproprietaires.Add(copro);
+            context.SaveChanges();
+            List<Coproprietaire> copros = context.Coproprietaires.ToList();
+            ViewBag.Message = copros;
+
+            return View(copros);
+        }
+        
+    public IActionResult GrandLivre()
+        {
+            // context.Database.EnsureCreated();
+
+            var copro = new Coproprietaire();
+            copro.Name = "GrandLivre";
+            context.Coproprietaires.Add(copro);
+            context.SaveChanges();
+            List<Coproprietaire> copros = context.Coproprietaires.ToList();
+            ViewBag.Message = copros;
+
+            return View(copros);
+        }
+        public IActionResult Fournisseurs()
+        {
+            // context.Database.EnsureCreated();
+
+            var copro = new Coproprietaire();
+            copro.Name = "privacy";
+            context.Coproprietaires.Add(copro);
+            context.SaveChanges();
+            List<Coproprietaire> copros = context.Coproprietaires.ToList();
+            ViewBag.Message = copros;
+
+            return View(copros);
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

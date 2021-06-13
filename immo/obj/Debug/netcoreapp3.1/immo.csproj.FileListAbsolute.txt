@@ -79,3 +79,6 @@ D:\git\immo\immo\bin\Debug\netcoreapp3.1\ImmoApp.Data.dll
 D:\git\immo\immo\bin\Debug\netcoreapp3.1\ImmoApp.domain.dll
 D:\git\immo\immo\bin\Debug\netcoreapp3.1\ImmoApp.Data.pdb
 D:\git\immo\immo\bin\Debug\netcoreapp3.1\ImmoApp.domain.pdb
+D:\git\immo\immo\obj\Debug\netcoreapp3.1\Razor\Views\Home\copros.cshtml.g.cs
+D:\git\immo\immo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fournisseurs.cshtml.g.cs
+D:\git\immo\immo\obj\Debug\netcoreapp3.1\Razor\Views\Home\grandlivre.cshtml.g.cs
